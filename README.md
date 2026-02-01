@@ -4,6 +4,7 @@ A quick-start template using the OpenAI [Assistants API](https://platform.openai
 <br/>
 <br/>
 ![OpenAI Assistants API Quickstart](https://github.com/openai/openai-assistants-quickstart/assets/27232/755e85e9-3ea4-421f-b202-3b0c435ea270)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fopenai-assistants-quickstart.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fopenai-assistants-quickstart?ref=badge_shield)
 
 ## Quickstart Setup
 
@@ -71,3 +72,7 @@ The main logic for chat will be found in the `Chat` component in `app/components
 ## Feedback
 
 Let us know if you have any thoughts, questions, or feedback in [this form](https://docs.google.com/forms/d/e/1FAIpQLScn_RSBryMXCZjCyWV4_ebctksVvQYWkrq90iN21l1HLv3kPg/viewform?usp=sf_link)!
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fopenai-assistants-quickstart.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhttps-quantumblockchainai-atlassian-net%2Fopenai-assistants-quickstart?ref=badge_large)
